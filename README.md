@@ -18,19 +18,15 @@ Setiap baris berisi token beserta part-of-speech tag dari token tersebut yang te
 Each line consists of token with its respective part-of-speech tag separated by a tab character(\t). There is an empty line between sentences.
 
 
+## References
+
 ### Authors
 - Ruli Manurung
 - Arawinda Dinakaramani
 - Fam Rashel
 - Andry Luthfi 
 
-
-### Page
-For more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/corpus
-
-## References
-
-@inproceedings{Dinakaramani2014,
+@inproceedings{Dinakaramani2014, \
             author = {Dinakaramani, Arawinda and Rashel, Fam and Luthfi, Andry and Manurung, Ruli}, \
             booktitle = {Proceedings of the International Conference on Asian Language Processing 2014, IALP 2014}, \
             doi = {10.1109/IALP.2014.6973519}, \
@@ -38,6 +34,10 @@ For more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/
             title = {{Designing an Indonesian part of speech tagset and manually tagged Indonesian corpus}}, \
             year = {2014}
 }
+
+### Page
+For more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/corpus
+
 
 
 # Changelog
