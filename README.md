@@ -21,8 +21,8 @@ Setiap baris berisi token beserta part-of-speech tag dari token tersebut yang te
 - Fam Rashel
 - Andry Luthfi 
 
-@inproceedings{Dinakaramani2014, \
-            author = {Dinakaramani, Arawinda and Rashel, Fam and Luthfi, Andry and Manurung, Ruli}, \
+@inproceedings{Dinakaramani2014,   
+            author = {Dinakaramani, Arawinda and Rashel, Fam and Luthfi, Andry and Manurung, Ruli},    
             booktitle = {Proceedings of the International Conference on Asian Language Processing 2014, IALP 2014}, \
             doi = {10.1109/IALP.2014.6973519}, \
             pages = {66--69}, \
@@ -37,6 +37,7 @@ For more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/
 
 ## Changelog
 * 2022
+  * The dataset name was changed name from **idn-tagged-corpus** to **idn-tagged-corpus-CSUI**
   * The dataset was moved to the IR-NLP Lab repository
 * 2014
   * Initial release at [Fam Rashel's repository](https://github.com/famrashel/idn-tagged-corpus)
