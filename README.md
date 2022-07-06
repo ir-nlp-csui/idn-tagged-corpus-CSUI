@@ -1,5 +1,5 @@
 idn-tagged-corpus-CSUI
-=================
+======================
 
 Manually Tagged Indonesian Corpus
 * [Bahasa](#readmemd-versi-bahasa).
@@ -24,8 +24,28 @@ Each line consists of token with its respective part-of-speech tag separated by 
 - Fam Rashel
 - Andry Luthfi 
 
+
 ### Page
-For publication and more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/corpus
+For more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/corpus
+
+## References
+
+@inproceedings{Dinakaramani2014,
+author = {Dinakaramani, Arawinda and Rashel, Fam and Luthfi, Andry and Manurung, Ruli},
+booktitle = {Proceedings of the International Conference on Asian Language Processing 2014, IALP 2014},
+doi = {10.1109/IALP.2014.6973519},
+pages = {66--69},
+title = {{Designing an Indonesian part of speech tagset and manually tagged Indonesian corpus}},
+year = {2014}
+}
+
+
+# Changelog
+* 2022
+  * The dataset was moved to the IR-NLP Lab repository
+  * Added a new split of the dataset by IndoNLU
+* 2014
+  * Initial release at [the first repository](https://github.com/famrashel/idn-tagged-corpus)
 
 ### License
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
