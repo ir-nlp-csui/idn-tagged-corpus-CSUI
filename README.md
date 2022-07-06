@@ -1,14 +1,14 @@
 idn-tagged-corpus-CSUI
 ======================
 
-# Summary
+## Summary
 
 Idn-tagged-corpus-CSUI is a manually tagged Indonesian POS tagging corpus consists of 10000 sentences.
 
-# Data Format
+## Data Format
 Each line consists of token with its respective part-of-speech tag separated by a tab character(\t). There is an empty line between sentences.
 
-## Format Data (versi Bahasa Indonesia)
+### Format Data (versi Bahasa Indonesia)
 
 Korpus ini menggunakan format tab-separated file (.tsv).
 Setiap baris berisi token beserta part-of-speech tag dari token tersebut yang terpisahkan oleh satu karakter tab(\t). Antar kalimat dipisahkan oleh satu baris kosong.
@@ -35,13 +35,13 @@ For more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/
 
 
 
-# Changelog
+## Changelog
 * 2022
   * The dataset was moved to the IR-NLP Lab repository
 * 2014
   * Initial release at [Fam Rashel's repository](https://github.com/famrashel/idn-tagged-corpus)
 
-### License
+## License
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
 ## Contact
