@@ -1,4 +1,4 @@
-idn-tagged-corpus
+idn-tagged-corpus-CSUI
 =================
 
 Manually Tagged Indonesian Corpus
@@ -30,4 +30,6 @@ For publication and more details about this work, please visit http://bahasa.cs.
 ### License
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
+## Contact
+Arawinda Dinakaramani (arawinda at cs.ui.ac.id)
 
