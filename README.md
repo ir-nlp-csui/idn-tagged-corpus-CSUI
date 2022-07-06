@@ -31,11 +31,11 @@ For more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/
 ## References
 
 @inproceedings{Dinakaramani2014,
-            author = {Dinakaramani, Arawinda and Rashel, Fam and Luthfi, Andry and Manurung, Ruli},
-            booktitle = {Proceedings of the International Conference on Asian Language Processing 2014, IALP 2014},
-            doi = {10.1109/IALP.2014.6973519},
-            pages = {66--69},
-            title = {{Designing an Indonesian part of speech tagset and manually tagged Indonesian corpus}},
+            author = {Dinakaramani, Arawinda and Rashel, Fam and Luthfi, Andry and Manurung, Ruli}, \
+            booktitle = {Proceedings of the International Conference on Asian Language Processing 2014, IALP 2014}, \
+            doi = {10.1109/IALP.2014.6973519}, \
+            pages = {66--69}, \
+            title = {{Designing an Indonesian part of speech tagset and manually tagged Indonesian corpus}}, \
             year = {2014}
 }
 
