@@ -44,6 +44,9 @@ For more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/
 ## License
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
+You can use this dataset for free. You don't need our permission to use it. Please cite our paper if your work uses our data in your publication.
+Please note that you are not allowed to create a copy of this dataset and share it publicly in your own repository without our permission.
+
 ## Contact
-Arawinda Dinakaramani (arawinda at cs.ui.ac.id)
+arawinda [at] cs.ui.ac.id)
 
