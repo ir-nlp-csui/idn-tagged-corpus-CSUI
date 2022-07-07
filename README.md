@@ -41,6 +41,10 @@ For more details about this work, please visit http://bahasa.cs.ui.ac.id/postag/
 * 2014
   * Initial release at [Fam Rashel's repository](https://github.com/famrashel/idn-tagged-corpus)
 
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
 ## License
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
 
