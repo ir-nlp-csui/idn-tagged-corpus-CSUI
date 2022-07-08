@@ -1,4 +1,4 @@
-# IndoNLU-split
+# IndoNLU Split
 
 ## Summary
 
